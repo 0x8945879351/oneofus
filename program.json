@@ -1,0 +1,10 @@
+{
+  "program": "oneofus.aleo",
+  "version": "0.0.1",
+  "description": "",
+  "development": {
+      "private_key": "APrivateKey1zkpEYZjzWhJ63rpHBKuWR1hki7GYFDPQQnoR9RvhEneQGCm",
+      "address": "aleo13w87qndak7wl0fjkpnz852s7gan2gpw3qwz0as92spcj032sngqqhnue8d"
+  },
+  "license":"MIT"
+}

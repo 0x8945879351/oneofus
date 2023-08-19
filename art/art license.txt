@@ -1,0 +1,2 @@
+Although the code is provided under MIT license, the art and the brand are protected and not free-use. 
+Once NFTs are deployed ownership of the maps and caracters will be transfered to the on-chain NFT ownership.
